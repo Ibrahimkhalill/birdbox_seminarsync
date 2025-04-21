@@ -5,10 +5,10 @@ export default {
     extend: {
       colors: {
         // Add custom colors here
-        primary: "#FFDC58", // Gold
-        secondary: "#1E90FF", // Dodger Blue
-        accent: "#FF4500", // Orange Red
-        sidebar: "#F1E9C8",
+        primary: "#1C1C1D", // Gold
+        secondary: "#BDC5DB", // Dodger Blue
+        button: "#337DFF", // Orange Red
+        t_color: "#BDC5DB",
       },
     },
   },
